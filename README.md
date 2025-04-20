@@ -1,2 +1,3 @@
-# BBY-Stealer-Decompiled
+# BBY Stealer Decompiled
 another turkish dualhooked stealer decompiled, skidded from doener
+ill edit this readme and put every details abt how i decompiled it, maybe tmrow...
